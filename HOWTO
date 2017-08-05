@@ -1,0 +1,34 @@
+Custom Controller for Hollis H-160
+
+This project documents the necessary hardware and software required to upgrade the H-160 DPV from the 30V 16Ah NiMH battery to a 43V 20Ah LiFePO4 battery. This should provide about double the run time and provide a better self-discharge rate.
+
+The H-160 dive propulsion vehicle has a 30V NiMH battery rated for 16Ah and provides a burn time of between 1h30m and 45m, typically at cruising speed (sidemount, dry suit, 2 speed, 7th pitch) gets at best a little over an hour of burn time. The battery pack also loses charge quickly and if left on the charger it will still lose charge, the Hollis charger doesn't top up after a full charge.
+
+Challenges
+----------
+
+The DPV needs to be close to neutrally buoyant and ideally have a centre of gravity at the longitudanal centre but laterally towards the starboard side to balance some of the motor torque and ease hand strain. The H-160 as is, in fresh water, is neutrally buoyant with less than 0.8 lbs of lead however has the centre of gravity at the stern, and offers little torque compensation.
+
+The new battery needs to be the same weight or lighter than the stock battery. If it's heavier then additional buoyancy would be needed to compensate. That would require a longer hull (i.e. machining a new one, or making an extender) or adding external buoyancy perhaps in the form of ABS tubes strapped to the side.
+
+The new battery also needs to physically fit into the hull.
+
+A new controller is needed to step down the voltage from the battery to the voltages used by each of the three speeds. The controller also enters a "limp mode" when the battery voltage reaches a certain level, it protects the battery from damage but also gives the diver some thrust to exit the dive.
+
+Each component, the motor, the controller and the battery are sealed so that a hull leak will not damage any of the components and leak in the shaft seal will only affect the battery. This challenge is not addressed in this design.
+
+
+My Design
+---------
+
+The LiFePO4 chemistry was chosen for its high power to weight ratio. Pouch cells were the most effective because cylindrical cells have heavy sheet metal containers. Also cylinders tend to have voltage cut-off circuitry which we don't want. I chose A123 Systems 20Ah cells, 12 of them in series to obtain a nominal 40V battery. These cells have an impressive engineering report where they can take a lot of over charge and undercharge without damage.
+
+The battery assembly is a custom 1/4" acetal connector plate with two 1/4" acetal side plates compressed by gear clamps. Four AL u-channel pieces, used as a mount system, are held in grooves cut into the acetal and held in place with the same gear clamps. The battery tabs fit through slits cut in the connector plate and clamped down with screws and plates. The acetal takes a thread tap quite well.
+
+A new circuit board is needed to reduce the voltage for each of the three speeds. It's populated with a switching power supply, an arduino and several power components which mimics the stock controller.
+
+The stock battery is removed and taken apart. The top plate is kept for the new design. The four posts on which the battery sits are also removed and replaced with four AL 6016-t6 1/4" rods, the ends tapped with 1/4" x 20 TPI. These rods are bolted onto the stock base (the one that the stock 4 rods were secured to). 1/2" AL tube was cut and put in place to support the battery. the battery is slid over these rods with the rods sliding into the u-channel. The stock battery plate is put on top and wing nuts used to secure it all.
+
+
+
+
