@@ -1,0 +1,9 @@
+The software was compiled and downloaded onto the controller using the
+Arduino IDE. A 5v CP2102 USB to serial adapter was connected to the 
+controller.
+
+To upload hold the arduino pro mini's reset button, click the Arduino
+IDE's upload button. When the compile stops release the reset button.
+
+If the upload fails try reversing the RX and TX pins.
+

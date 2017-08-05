@@ -1,0 +1,24 @@
+
+
+
+
+
+
+check switch state
+	set switch_state
+	set target_speed_index
+	turn off buzzer
+	
+Motor state
+	set motor_state
+	does speed == target speed
+		ensure motor_state = on
+		set motor_on time
+		start speed buzzer
+	else
+		adjust as needed
+
+
+buzzer state
+	if buzzer = 
+
