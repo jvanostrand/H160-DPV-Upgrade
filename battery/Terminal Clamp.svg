@@ -14,7 +14,7 @@
    viewBox="0 0 744.09449 1052.3622"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="Terminal Clamp.svg">
   <defs
      id="defs4" />
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="485.06252"
+     inkscape:cx="347.06252"
      inkscape:cy="767.34038"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -41,7 +41,8 @@
        type="xygrid"
        id="grid4138"
        spacingx="11.25"
-       spacingy="11.25" />
+       spacingy="11.25"
+       empspacing="8" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -408,63 +409,61 @@
     </g>
     <text
        xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
        x="90"
        y="512.36218"
-       id="text4189"
-       sodipodi:linespacing="0%"><tspan
+       id="text4189"><tspan
          sodipodi:role="line"
          id="tspan4191"
          x="90"
-         y="512.36218">Notes:</tspan></text>
+         y="512.36218"
+         style="font-size:15px;line-height:0">Notes:</tspan></text>
     <text
        xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
        x="112.5"
        y="534.86218"
-       id="text4193"
-       sodipodi:linespacing="100%"><tspan
+       id="text4193"><tspan
          sodipodi:role="line"
          id="tspan4195"
          x="112.5"
          y="534.86218"
-         style="line-height:100%;letter-spacing:-0.03px">- Use 1/4&quot; (7mm) acetal</tspan><tspan
+         style="font-size:15px;line-height:100%;letter-spacing:-0.03px">- Use 1/4&quot; (7mm) acetal</tspan><tspan
          sodipodi:role="line"
          x="112.5"
          y="549.86218"
-         style="line-height:100%;letter-spacing:-0.03px"
+         style="font-size:15px;line-height:100%;letter-spacing:-0.03px"
          id="tspan4201">- Cut slots using a jig or scross saw, print and glue this to acetal as a template</tspan><tspan
          sodipodi:role="line"
          x="112.5"
          y="564.86218"
-         style="line-height:100%;letter-spacing:-0.03px"
+         style="font-size:15px;line-height:100%;letter-spacing:-0.03px"
          id="tspan4203">- Tap holes</tspan><tspan
          sodipodi:role="line"
          x="112.5"
          y="579.86218"
-         style="line-height:100%;letter-spacing:-0.03px"
-         id="tspan4205">- Cut metal plates with matching holes to clamp cell tabs together</tspan><tspan
+         style="font-size:15px;line-height:100%;letter-spacing:-0.03px"
+         id="tspan4205">- Cut metal plates 2-1/2&quot; x 1/4&quot; with matching holes to clamp cell tabs together</tspan><tspan
          sodipodi:role="line"
          x="112.5"
          y="594.86218"
-         style="line-height:100%;letter-spacing:-0.03px"
-         id="tspan4199" /><tspan
+         style="font-size:15px;line-height:100%;letter-spacing:-0.03px"
+         id="tspan4199"> </tspan><tspan
          sodipodi:role="line"
          x="112.5"
          y="609.86218"
          id="tspan4197"
-         style="line-height:100%;letter-spacing:-0.03px" /></text>
+         style="font-size:15px;line-height:100%;letter-spacing:-0.03px"> </tspan></text>
     <text
        xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
        x="213.75"
        y="51.112198"
-       id="text4207"
-       sodipodi:linespacing="0%"><tspan
+       id="text4207"><tspan
          sodipodi:role="line"
          id="tspan4209"
          x="213.75"
          y="51.112198"
-         style="-inkscape-font-specification:'Liberation Sans, Normal';font-family:'Liberation Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:30px;text-anchor:start;text-align:start;writing-mode:lr;line-height:0%">Battery Terminal Clamp</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Battery Terminal Clamp</tspan></text>
   </g>
 </svg>

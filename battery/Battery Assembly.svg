@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5371"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="Battery Assembly.svg">
+  <defs
+     id="defs5365">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker10231"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path10229"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;fill:#ff0000;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker10087"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;fill:#ff0000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path10085" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker9907"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path9905"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;fill:#ff0000;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6125"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;fill:#ff0000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path6123" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path3923"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;fill:#ff0000;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="416.56614"
+     inkscape:cy="198.45504"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5368">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       sodipodi:absref="/home/john/Downloads/IMG_20180226_1512354.jpg"
+       y="31.859909"
+       x="13.273299"
+       id="image5451"
+       xlink:href="file:///home/john/Downloads/IMG_20180226_1512354.jpg"
+       preserveAspectRatio="none"
+       height="104.31706"
+       width="78.237793"
+       style="stroke:#ff0000;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart)"
+       d="m 70.784387,37.10163 37.230653,7.18155"
+       id="path5997"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker6125)"
+       d="m 49.712214,121.72106 c -31.892601,14.6451 -42.1013475,22.76158 -26.157208,47.7109"
+       id="path6115"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       x="111.03884"
+       y="45.984077"
+       id="text6201"><tspan
+         sodipodi:role="line"
+         x="111.03884"
+         y="45.984077"
+         style="font-size:5.64444447px;line-height:100%;stroke-width:0.26458332px"
+         id="tspan10691">Original battery top cover </tspan><tspan
+         sodipodi:role="line"
+         x="111.03884"
+         y="51.628521"
+         style="font-size:5.64444447px;line-height:100%;stroke-width:0.26458332px"
+         id="tspan13629">with wing nuts and lead</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       x="21.574766"
+       y="174.09738"
+       id="text6205"><tspan
+         sodipodi:role="line"
+         id="tspan6203"
+         x="21.574766"
+         y="174.09738"
+         style="font-size:5.64444447px;stroke-width:0.26458332px">Original Battery mount</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker9907)"
+       d="m 57.730219,119.93394 1.870884,28.86511"
+       id="path9897"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       x="61.612823"
+       y="155.88168"
+       id="text10073"><tspan
+         sodipodi:role="line"
+         id="tspan10071"
+         x="61.612823"
+         y="155.88168"
+         style="font-size:5.64444447px;line-height:100%;text-align:center;text-anchor:middle;stroke-width:0.26458332px">New 1/4&quot; AL Rod</tspan><tspan
+         sodipodi:role="line"
+         x="61.612823"
+         y="161.52612"
+         style="font-size:5.64444447px;line-height:100%;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         id="tspan10075">connects mount to top</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker10087)"
+       d="m 45.43582,54.58654 60.7121,9.80703"
+       id="path10077"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       x="109.92768"
+       y="67.039413"
+       id="text10217"><tspan
+         sodipodi:role="line"
+         id="tspan10215"
+         x="109.92768"
+         y="67.039413"
+         style="font-size:5.64444447px;line-height:100%;stroke-width:0.26458332px">Twelve A123 Systems</tspan><tspan
+         sodipodi:role="line"
+         x="109.92768"
+         y="72.683861"
+         style="font-size:5.64444447px;line-height:100%;stroke-width:0.26458332px"
+         id="tspan10219">20Ah LiFePO4 pouch cells</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker10231)"
+       d="m 62.2738,66.21276 c 6.204181,3.64613 40.32921,26.1406 40.32921,26.1406"
+       id="path10221"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       x="106.46498"
+       y="95.350311"
+       id="text10433"><tspan
+         sodipodi:role="line"
+         x="106.46498"
+         y="95.350311"
+         style="font-size:5.64444447px;line-height:100%;stroke-width:0.26458332px"
+         id="tspan10435">New battery housing:</tspan><tspan
+         sodipodi:role="line"
+         x="106.46498"
+         y="100.99476"
+         style="font-size:5.64444447px;line-height:100%;stroke-width:0.26458332px"
+         id="tspan10441">- 1/4&quot; acetal sides</tspan><tspan
+         sodipodi:role="line"
+         x="106.46498"
+         y="106.6392"
+         style="font-size:5.64444447px;line-height:100%;stroke-width:0.26458332px"
+         id="tspan10443">- 1/4&quot; acetal terminal plate</tspan><tspan
+         sodipodi:role="line"
+         x="106.46498"
+         y="112.28365"
+         style="font-size:5.64444447px;line-height:100%;stroke-width:0.26458332px"
+         id="tspan10625">  (bottom)</tspan><tspan
+         sodipodi:role="line"
+         x="106.46498"
+         y="117.92809"
+         style="font-size:5.64444447px;line-height:100%;stroke-width:0.26458332px"
+         id="tspan10627">- 3/8&quot; x 1/2&quot; AL U channel</tspan><tspan
+         sodipodi:role="line"
+         x="106.46498"
+         y="123.57253"
+         style="font-size:5.64444447px;line-height:100%;stroke-width:0.26458332px"
+         id="tspan10631">  (slides onto 1/4&quot; rod)</tspan><tspan
+         sodipodi:role="line"
+         x="106.46498"
+         y="129.21698"
+         style="font-size:5.64444447px;line-height:100%;stroke-width:0.26458332px"
+         id="tspan10635">- 1&quot; x 1/8&quot; AL bar (to center in</tspan><tspan
+         sodipodi:role="line"
+         x="106.46498"
+         y="134.86142"
+         style="font-size:5.64444447px;line-height:100%;stroke-width:0.26458332px"
+         id="tspan10639">  hull)</tspan><tspan
+         sodipodi:role="line"
+         x="106.46498"
+         y="140.50586"
+         style="font-size:5.64444447px;line-height:100%;stroke-width:0.26458332px"
+         id="tspan10641">- 1/2&quot; AL tube spacer</tspan><tspan
+         sodipodi:role="line"
+         x="106.46498"
+         y="146.15031"
+         style="font-size:5.64444447px;line-height:100%;stroke-width:0.26458332px"
+         id="tspan10643">- Hose clamps to hold cells</tspan><tspan
+         sodipodi:role="line"
+         x="106.46498"
+         y="151.79475"
+         style="font-size:5.64444447px;line-height:100%;stroke-width:0.26458332px"
+         id="tspan10645">  together</tspan><tspan
+         sodipodi:role="line"
+         x="106.46498"
+         y="157.43919"
+         style="font-size:5.64444447px;line-height:100%;stroke-width:0.26458332px"
+         id="tspan13451">- Rubber cover for terminals</tspan><tspan
+         sodipodi:role="line"
+         x="106.46498"
+         y="161.78372"
+         style="line-height:100%;stroke-width:0.26458332px"
+         id="tspan10629">  </tspan><tspan
+         sodipodi:role="line"
+         x="106.46498"
+         y="165.75247"
+         style="line-height:100%;stroke-width:0.26458332px"
+         id="tspan10439" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10647"
+       style="fill:#000000;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:0%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr;text-anchor:start;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal'"><flowRegion
+         id="flowRegion10649"><rect
+           id="rect10651"
+           width="87.88327"
+           height="177.28177"
+           x="408.10162"
+           y="404.8063" /></flowRegion><flowPara
+         id="flowPara10653"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       x="63.075607"
+       y="22.246922"
+       id="text13449"><tspan
+         sodipodi:role="line"
+         id="tspan13447"
+         x="63.075607"
+         y="22.246922"
+         style="font-size:8.46666622px;stroke-width:0.26458332px">H160 Custom Battery </tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       x="17.386906"
+       y="195.89137"
+       id="text13455"><tspan
+         sodipodi:role="line"
+         x="17.386906"
+         y="195.89137"
+         style="stroke-width:0.26458332px"
+         id="tspan13457">Parts List:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       x="27.861752"
+       y="203.07289"
+       id="text13463"><tspan
+         sodipodi:role="line"
+         id="tspan13461"
+         x="27.861752"
+         y="203.07289"
+         style="line-height:100%;letter-spacing:0.00264583px;stroke-width:0.26458332px">2 of 6-3/8&quot; x 9-1/4&quot;- 1/4&quot; acetal sheet sides</tspan><tspan
+         sodipodi:role="line"
+         x="27.861752"
+         y="207.04164"
+         style="line-height:100%;letter-spacing:0.00264583px;stroke-width:0.26458332px"
+         id="tspan13469">        (Cut 1/16&quot; deep channels to keep U channel from moving</tspan><tspan
+         sodipodi:role="line"
+         x="27.861752"
+         y="211.01039"
+         style="line-height:100%;letter-spacing:0.00264583px;stroke-width:0.26458332px"
+         id="tspan13535">          U channel should be 4.5&quot; on centre)</tspan><tspan
+         sodipodi:role="line"
+         x="27.861752"
+         y="212.99477"
+         style="line-height:100%;letter-spacing:0.00264583px;stroke-width:0.26458332px"
+         id="tspan13465" /></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       x="27.861752"
+       y="217.86108"
+       id="text13473"><tspan
+         sodipodi:role="line"
+         id="tspan13471"
+         x="27.861752"
+         y="217.86108"
+         style="line-height:100%;letter-spacing:-0.01058333px;stroke-width:0.26458332px">1 of 6-3/8 x 3-7/8&quot; - 1/4&quot; acetal sheet terminal plate</tspan><tspan
+         sodipodi:role="line"
+         x="27.861752"
+         y="221.82983"
+         style="line-height:100%;letter-spacing:-0.01058333px;stroke-width:0.26458332px"
+         id="tspan13475">         (cut slots to accept cell tabs and tapped holes to secure metal clamping plates)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       x="27.770672"
+       y="228.68248"
+       id="text13479"><tspan
+         sodipodi:role="line"
+         x="27.770672"
+         y="228.68248"
+         style="stroke-width:0.26458332px"
+         id="tspan13481">4 of 7-1/2&quot; - 3/8&quot; x 1/2&quot; AL U channel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       x="27.770672"
+       y="234.75027"
+       id="text13487"><tspan
+         sodipodi:role="line"
+         id="tspan13485"
+         x="27.770672"
+         y="234.75027"
+         style="stroke-width:0.26458332px">4 of 4-1/4&quot; - 1/2&quot; AL tube</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       x="27.861752"
+       y="240.81807"
+       id="text13491"><tspan
+         sodipodi:role="line"
+         id="tspan13489"
+         x="27.861752"
+         y="240.81807"
+         style="line-height:100%;stroke-width:0.26458332px">2 of 6&quot; - 1&quot; x 1/8&quot; AL bar stock</tspan><tspan
+         sodipodi:role="line"
+         x="27.861752"
+         y="244.78682"
+         style="line-height:100%;stroke-width:0.26458332px"
+         id="tspan13493">         (curve ends to match inside hull)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       x="27.861752"
+       y="251.63751"
+       id="text13497"><tspan
+         sodipodi:role="line"
+         id="tspan13495"
+         x="27.861752"
+         y="251.63751"
+         style="line-height:100%;stroke-width:0.26458332px">4 of 14-3/8&quot; - 1/4&quot; AL rod stock (6061-T6 alloy for strength)</tspan><tspan
+         sodipodi:role="line"
+         x="27.861752"
+         y="255.60626"
+         style="line-height:100%;stroke-width:0.26458332px"
+         id="tspan13499">        (cut 1/4-20 threads 1&quot; long on each end)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       x="100.91964"
+       y="259.20236"
+       id="text13503"><tspan
+         sodipodi:role="line"
+         id="tspan13501"
+         x="100.91964"
+         y="260.29675"
+         style="stroke-width:0.26458332px"></tspan><tspan
+         sodipodi:role="line"
+         x="100.91964"
+         y="260.29675"
+         style="stroke-width:0.26458332px"
+         id="tspan13505" /></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       x="27.689281"
+       y="262.45889"
+       id="text13509"><tspan
+         sodipodi:role="line"
+         id="tspan13507"
+         x="27.689281"
+         y="262.45889"
+         style="stroke-width:0.26458332px">8 of 1/4-20 nylock nuts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       x="27.689281"
+       y="269.31152"
+       id="text13513"><tspan
+         sodipodi:role="line"
+         id="tspan13511"
+         x="27.689281"
+         y="269.31152"
+         style="stroke-width:0.26458332px">8 of 5/8&quot; washers (1/4&quot; centre hole)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       x="27.662151"
+       y="276.16223"
+       id="text13517"><tspan
+         sodipodi:role="line"
+         id="tspan13515"
+         x="27.662151"
+         y="276.16223"
+         style="stroke-width:0.26458332px">2 of stainless hose clamps 24&quot; long</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot13519"
+       style="fill:#000000;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:0%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr;text-anchor:start;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal'"><flowRegion
+         id="flowRegion13521"><rect
+           id="rect13523"
+           width="517.85712"
+           height="281.42856"
+           x="57.857143"
+           y="763.94824" /></flowRegion><flowPara
+         id="flowPara13525"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot13527"
+       style="fill:#000000;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:0%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr;text-anchor:start;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal'"><flowRegion
+         id="flowRegion13529"><rect
+           id="rect13531"
+           width="513.57141"
+           height="313.57144"
+           x="56.42857"
+           y="763.94824" /></flowRegion><flowPara
+         id="flowPara13533"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       x="27.559444"
+       y="283.01486"
+       id="text13637"><tspan
+         sodipodi:role="line"
+         id="tspan13635"
+         x="27.559444"
+         y="283.01486"
+         style="stroke-width:0.26458332px">13 of metal clamping plates and 26 screws</tspan></text>
+  </g>
+</svg>
